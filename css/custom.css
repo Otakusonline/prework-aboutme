@@ -1,0 +1,11 @@
+#logo {
+    /* Typogrophy */
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #fff;
+
+    /* Visuals */
+    background-color: rgb(170, 148, 148);
+    border-radius: 50%;
+}
